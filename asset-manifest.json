@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joke-app-chatgpt/static/css/main.674d0846.css",
+    "main.js": "/joke-app-chatgpt/static/js/main.6edea336.js",
+    "static/js/787.c1fb0084.chunk.js": "/joke-app-chatgpt/static/js/787.c1fb0084.chunk.js",
+    "static/media/modern-background-gpt-generated.png": "/joke-app-chatgpt/static/media/modern-background-gpt-generated.ab2a1145b34db71c782d.png",
+    "index.html": "/joke-app-chatgpt/index.html",
+    "main.674d0846.css.map": "/joke-app-chatgpt/static/css/main.674d0846.css.map",
+    "main.6edea336.js.map": "/joke-app-chatgpt/static/js/main.6edea336.js.map",
+    "787.c1fb0084.chunk.js.map": "/joke-app-chatgpt/static/js/787.c1fb0084.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.674d0846.css",
+    "static/js/main.6edea336.js"
+  ]
+}
