@@ -22,7 +22,7 @@ function App() {
         <h1>Joke of the Day</h1>
       </header>
       <main className="joke-container">
-        <p>{joke}</p>
+        <p>"TBD"</p>
       </main>
     </div>
   );
